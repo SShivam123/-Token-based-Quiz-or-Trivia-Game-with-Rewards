@@ -7,7 +7,7 @@ A decentralized quiz game smart contract where player answer questions and earn 
 To create an engaging and rewarding decentralized trivia experience, incentivizing knowledge to sharing and learning with token-based incentives onn blockchain.
 
 ## Key Features
-- Owner can add multiple choice questions with correct answers
+- Owner can add multiple choice questions with are correct answers
 - Players answer questions and earn token rewards for correct responses
 - Players can withdraw their accumulated token rewards anytime
 - Owner can fund the contract with reward tokens to maintain payouts
