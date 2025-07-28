@@ -8,7 +8,7 @@ To create an engaging and rewarding decentralized trivia experience, incentivizi
 
 ## Key Features
 - Owner can add multiple choice questions with are correct answers
-- Players answer questions and earn token reward for correct responses
+- Players answer questions and earn token reward for correct response
 - Players can withdraw their accumulated token rewards anytime
 - Owner can fund the contract with reward tokens to maintain payouts
 - Transparent and verifiable reward system
