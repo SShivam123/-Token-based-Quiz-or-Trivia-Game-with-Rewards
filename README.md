@@ -6,7 +6,7 @@ A decentralized quizs games smart contract where player answer questions and ear
 ## Project Vision
 To create an engaging and rewarding decentralized trivia experience, incentivizing knowledge to sharing s and learning with token-based incentive onn blockchain.
 
-## Key Features
+## Key Feature
 - Owner can add multiple choice questions with are correct answer
 - Players answer questions and earn token reward for correct response
 - Players can withdraw their accumulated token rewards anytime
