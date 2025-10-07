@@ -1,4 +1,4 @@
-bh# Token-based Quiz  Trivia Game with Reward
+bh# Token-based Quizs  Trivia Game with Rewards
 
 ## Project Description
 A decentralized quiz game smart contract where player answer questions and earn ERC20 tokens reward corrects answer. The contract manage question, reward distribution, and allows users withdraw their accumulated token rewards.
